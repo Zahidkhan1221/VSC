@@ -39,6 +39,7 @@ One liner clean code snippets in javascript/react with ES6 syntax
           company=null;
         }
         hi
+        hi zahid 
       ```
 
 
